@@ -1,8 +1,7 @@
 # CS-230-Operating-Platforms-2026
-Cloud Operating Platform
-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
-What did you do particularly well in developing this documentation?
-What about the process of working through a design document did you find helpful when developing the code?
-If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
-How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+The Gaming Room was the client for this project. They wanted to expand their existing game, Draw It or Lose It, from Android to a web-based application that could run across multiple platforms. The software needed to support multiple teams and players while making sure names remained unique and that only one instance of the game service existed at a time. I think one thing I did particularly well was evaluating the different operating platforms and explaining why Linux would be the best choice for hosting the application. I also did a good job connecting the client's requirements to the software design and architecture decisions.
+
+Working through the design document before writing code was helpful because it forced me to think about the requirements and structure of the application ahead of time. The UML diagram and design planning made it easier to understand how the classes would interact and how the system should be organized. If I could revise one part of my work, I would spend more time improving the initial design documentation and adding more detail to some of the architecture explanations. That would make the final design even clearer.
+
+When designing the software, I focused on the user's needs by making sure the application would be accessible across multiple platforms, easy to manage, and capable of supporting multiple users at the same time. Considering user needs is important because the software is ultimately being built for them, and meeting those requirements is what determines whether the project is successful. In the future, I would continue using techniques like gathering requirements, creating UML diagrams, evaluating different platforms, and planning system architecture before coding. These steps help create a stronger design and reduce problems later in development.
